@@ -1,0 +1,6 @@
+projeto-bimestral
+
+git init
+git add .
+git remote add origin link
+git push -u origin master
