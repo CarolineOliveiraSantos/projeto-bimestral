@@ -25,10 +25,6 @@ export default createGlobalStyle`
     }
     a{
        text-decoration: none;
-       color: #FFFFFF; 
+       color: #000; 
    }
-   @media (max-width: 899px) {
-    body {
-    background: #8c8c8c;
-    }
 `;
