@@ -45,7 +45,7 @@ export const Container = styled.div`
      text-align: center;
      color: #FFFFFF; 
    }
-   @media (max-width: 600px) {
+  @media (max-width: 600px) {
     section{
     height: 320px;
     width: 330px;
@@ -56,8 +56,8 @@ export const Container = styled.div`
     button{
     width: 320px;
    }
-    }
-   @media (max-width: 400px) {
+  }
+  @media (max-width: 400px) {
     section{
     width: 270px;
     }
@@ -67,8 +67,8 @@ export const Container = styled.div`
     button{
     width: 260px;
    }
-    }
-    @media (max-width: 330px) {
+  }
+  @media (max-width: 330px) {
     section{
     height: 300px;
     width: 220px;
@@ -79,5 +79,5 @@ export const Container = styled.div`
     button{
     width: 220px;
    }
-    }
+  }
 `;

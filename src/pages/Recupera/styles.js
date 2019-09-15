@@ -7,7 +7,7 @@ export const Container = styled.div`
    div{
     text-align: center;
     font-size: 1.3em;
-  }
+   }
    section{
     height: 200px;
     width: 350px;
@@ -15,7 +15,7 @@ export const Container = styled.div`
     background: rgba(255,255,255,0.6);
     border-radius: 20px;
     color: #000;
-  }
+   }
    input{
     margin-top: 0;
     height: 35px;
@@ -37,8 +37,8 @@ export const Container = styled.div`
     height: 200px;
     width: 300px;
     padding: 30px;
-  }  
-  input{
+    }  
+   input{
     width: 300px;
    }
    button{
@@ -50,12 +50,12 @@ export const Container = styled.div`
     height: 200px;
     width: 200px;
     padding: 30px;
-  }  
-  input{
-    width: 200px;
-   }
+    }  
+    input{
+      width: 200px;
+    }
    button{
-    width: 200px;
-   }
+     width: 200px;
+    }
   }
 `;
